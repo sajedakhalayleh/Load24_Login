@@ -47,6 +47,7 @@ public class LoginPageTestCases {
 			
 			tabs.get(i).click();
 			Thread.sleep(3000);
+			String my = "sdffs";
 
 		}
 
